@@ -33,14 +33,4 @@ speed-measure-plugin*.json
 
 # misc
 /.sass-cache
-/connect.lock
-/coverage
-/libpeerconnection.log
-npm-debug.log
-yarn-error.log
-testem.log
-/typings
-
-# System Files
-.DS_Store
-Thumbs.db
+/
